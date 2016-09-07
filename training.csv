@@ -1,0 +1,118 @@
+0,set an alarm for [time]
+0,set a smart alarm for [time]
+0,set an alarm for tomorrow
+0,set a smart alarm for tomorrow
+0,wake me up at [time]
+1,when is my next alarm
+1,when is my alarm
+1,when am I getting up
+1,list my alarms
+1,what time is my alarm
+1,what time is the alarm
+1,what alarms do I have set
+2,cancel all alarms
+2,cancel my [time] alarm
+2,cancel weekend alarms
+2,cancel weekday alarms
+2,turn my alarm off
+2,cancel my alarm
+0,change my alarm to
+0,change my [time] alarm to [time]
+3,change my in bed time to [time]
+3,change my fall asleep time to [time]
+3,change my wake up time to [time]
+3,change my awake time to [time]
+3,change my out of bed time to [time]
+3,mark my in bed time correct
+3,mark my in bed time incorrect
+3,mark my in bed time wrong
+3,mark my fall asleep time correct
+3,mark my fall asleep time incorrect
+3,mark my fall asleep time wrong
+3,mark my awake time correct
+3,mark my awake time incorrect
+3,mark my awake time wrong
+3,mark my wake up time correct
+3,mark my wake up time incorrect
+3,mark my wake up time wrong
+3,mark my out of bed time correct
+3,mark my out of bed time incorrect
+3,mark my out of bed time wrong
+3,my in bed time is wrong
+3,my in bed time is incorrect
+3,my out of bed time is wrong
+3,my out of bed time is incorrect
+3,my fall asleep time is wrong
+3,my fall asleep time is incorrect
+3,my awake time is incorrect
+3,my awake time is wrong
+3,my wake up time is wrong
+3,my wake up time is incorrect
+4,how's my room
+4,how is my room
+4,how's my bedroom
+4,how is my bedroom
+4,what are my room conditions
+4,how are my room conditions
+4,what are the conditions in my room
+4,what are my bedroom conditions
+4,how are my bedroom conditions
+4,what are the conditions in my bedroom
+4,what is the temperature
+4,what is the humidty
+4,what is the light level
+4,what is the sound level
+4,what is the air quality
+4,what's wrong with my room
+4,how cold is it
+4,how hot is it
+4,how humid is it
+5,what was my sleep score
+5,what was my best sleep score
+5,what was my worst sleep score
+5,what is my average sleep score
+5,what is my average sleep score on [dow]
+5,what was my score
+5,what was my best score
+5,what was my worst score
+5,what is my average score
+5,what is my average score on [dow]
+5,what is my average weekday sleep score
+5,what is my average weekend sleep score
+5,what is my average weekday score
+5,what is my average weekend score
+6,what is the time
+6,what time is it
+6,what day is today
+6,what's the time
+6,what's the current time
+6,what's the time in [location] 
+6,what's the current time in [location] 
+6,what time is it in [location] 
+7,play sleep sounds
+7,what was the name of the sleep sound that just played
+7,what is the name of the sleep sound that just played
+7,what was the name of the sound that just played
+7,what is the name of the sound that just played
+7,what sleep sounds can I play
+7,what are sleep sounds
+7,name the sleep sounds
+7,play [sound] for [duration]
+7,stop
+8,help
+8,I need support
+8,where do I get the sense app
+8,where can I find a list of commands
+9,snooze
+9,feedback I slept poorly
+9,feedback I slept okay
+9,feedback I slept well
+9,night light
+9,bedtime reminder
+9,what can I ask you
+9,what can you do
+9,what is the ideal temperature for sleep
+9,what is the ideal humidity for sleep
+9,what is the ideal light level for sleep
+9,what is the ideal light condition for sleep
+9,what is the ideal sound level for sleep
